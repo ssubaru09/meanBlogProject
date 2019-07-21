@@ -1,0 +1,29 @@
+{
+    "name": "blogproj",
+    "version": "1.0.0",
+    "description": "Mean Stack with Angular 7",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ssubaru09/meanBlogProject.git"
+    },
+    "keywords": [
+        "mean",
+        "stack",
+        "blog",
+        "project"
+    ],
+    "author": "P. Kimotho",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ssubaru09/meanBlogProject/issues"
+    },
+    "homepage": "https://github.com/ssubaru09/meanBlogProject#readme",
+    "dependencies": {
+        "express": "^4.17.1",
+        "mongoose": "^5.6.5"
+    }
+}
