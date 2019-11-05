@@ -24,6 +24,6 @@
     "homepage": "https://github.com/ssubaru09/meanBlogProject#readme",
     "dependencies": {
         "express": "^4.17.1",
-        "mongoose": "^5.6.5"
+        "mongoose": "^5.7.5"
     }
 }
