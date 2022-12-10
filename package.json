@@ -23,7 +23,7 @@
     },
     "homepage": "https://github.com/ssubaru09/meanBlogProject#readme",
     "dependencies": {
-        "express": "^4.17.1",
+        "express": "^4.17.3",
         "mongoose": "^5.6.5"
     }
 }
